@@ -40,8 +40,12 @@ body {
   text-align: center;
 }
 
-.title {
-  font-size: 84px;
+.logo {
+  font-size: 64px;
+}
+
+.tagline {
+    font-size: 44px;
 }
 
 .links > a {
